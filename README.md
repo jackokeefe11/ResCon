@@ -17,8 +17,10 @@ First, create a .env file in your project directory and set up necessary environ
 Run the Application:
 Navigate to the directory containing the application script and run:
 
-bash
+bash 
+
 Copy code
+
 python3 app.py
 
 Laboratory Profiles:
